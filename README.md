@@ -1,4 +1,4 @@
-# Phase3_Project3_ChatApp
+# Phase3_Project3_Log
 Installing:
 1)git clone https://github.com/onkarpatil28992/Phase3_Project3_ChatApp.
 
